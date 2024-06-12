@@ -1,3 +1,3 @@
 # Régions
 
-[La côtes des épées](cotedesepees/regions.md)
+[La côtes des épées](cotedesepees/cotedesepees.md)
