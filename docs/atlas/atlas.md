@@ -1,0 +1,1 @@
+# [Régions](faerun/regions/regions.md)
