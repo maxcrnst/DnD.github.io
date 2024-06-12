@@ -1,1 +1,3 @@
-# [Régions](faerun/regions/regions.md)
+# Continents
+
+## [faerun](faerun/regions/regions.md)
