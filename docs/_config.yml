@@ -1,6 +1,6 @@
 title: Aventure DnD
 description: les folles aventures donjon et dragons de wasquehal city gang
-remote_theme: pages-themes/merlot@v0.2.0
+theme: just-the-docs
 plugins:
 - jekyll-remote-theme 
 
