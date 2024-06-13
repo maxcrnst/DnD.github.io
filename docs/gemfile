@@ -1,2 +1,0 @@
-gem "just-the-docs"
-
