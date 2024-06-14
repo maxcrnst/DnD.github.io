@@ -12,8 +12,6 @@
 
 Vargash est né dans les montagnes déchiquetées de la région d'Orc'Hara, un territoire sauvage où seuls les plus forts survivent. Dès son enfance, Vargash a montré des signes de force et de férocité qui ont surpassé ceux de ses frères et sœurs. Son père, un guerrier respecté, lui a enseigné l'art du combat et les traditions de leur clan, mais Vargash avait une ambition qui dépassait de loin celle de son père.
 
-### L'Ascension
-
 À l'âge de 15 ans, Vargash a défié et vaincu le chef du clan en duel rituel, une tradition qui permettait aux plus puissants de prendre le commandement. En tant que nouveau chef, Vargash a immédiatement commencé à unifier les tribus orques rivales, usant de la diplomatie ou de la force brute selon ce qui était nécessaire. Sa réputation de chef impitoyable mais juste lui a valu le respect et la loyauté de nombreux guerriers.
 
  <details>
