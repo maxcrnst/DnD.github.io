@@ -17,60 +17,53 @@ Vargash est né dans les montagnes déchiquetées de la région d'Orc'Hara, un t
  <details>
 <summary>Fiche personnage</summary>
 
-```
+### Vargash, Chef de Guerre Orc
 
-Vargash, Chef de Guerre Orc
-Humanoïde de taille moyenne (orc), chaotique mauvais
+*Humanoïde (orc), chaotique mauvais*
 
-Classe d'Armure 16 (armure de plaques)
+**Classe d'Armure** 16 (armure de plaques)
 
-Points de Vie 85 (10d8 + 30)
+**Points de Vie** 68 (8d8 + 32)
 
-Vitesse 30 pieds
+**Vitesse** 30 pieds
 
-Caractéristique	Score	Modificateur
-Force	18 (+4)	
-Dextérité	12 (+1)	
-Constitution	16 (+3)	
-Intelligence	10 (+0)	
-Sagesse	12 (+1)	
-Charisme	14 (+2)	
-Jets de sauvegarde Force +7, Constitution +6, Charisme +5
+| Caractéristique | Score | Modificateur |
+|-----------------|-------|--------------|
+| Force           | 18 (+4) |  |
+| Dextérité       | 12 (+1) |  |
+| Constitution    | 18 (+4) |  |
+| Intelligence    | 10 (+0) |  |
+| Sagesse         | 10 (+0) |  |
+| Charisme        | 14 (+2) |  |
 
-Compétences Intimidation +5, Perception +3
+**Jets de sauvegarde** Force +7, Constitution +7
 
-Résistances aux dégâts nécrotique
+**Compétences** Intimidation +5, Survie +3
 
-Sens vision dans le noir 60 pieds, Perception passive 13
+**Sens** Perception passive 10
 
-Langues Commun, Orc
+**Langues** Commun, Orc
 
-Niveau de difficulté 6 (2 300 PX)
+**Niveau de difficulté** 3 (700 PX)
 
-Traits
+---
 
-Attaques Sauvages. Lorsqu'il obtient un coup critique avec une arme de mêlée, Vargash peut lancer un des dés de dégâts supplémentaires de l'arme et ajouter le résultat aux dégâts supplémentaires du coup critique.
+**Traits**
 
-Chef de Guerre (Recharge après un repos court ou long). En tant qu'action bonus, Vargash peut choisir jusqu'à trois créatures alliées qu'il peut voir dans un rayon de 30 pieds. Si une créature choisie peut le voir et l'entendre, elle peut utiliser sa réaction pour faire une attaque d'arme.
+**Attaque Sauvage.** Lorsqu'il réussit un coup critique avec une arme de mêlée, Vargash peut lancer un des dés de dégâts de l'arme une seconde fois et l'ajouter aux dégâts supplémentaires du coup critique.
 
-Tacticien Inspirant. Les créatures alliées à Vargash dans un rayon de 10 pieds gagnent un bonus de +1 à leurs jets d'attaque et de dégâts de mêlée.
+**Tacticien Brutal.** Vargash a un avantage sur les jets d'attaque contre toute créature qui a pris des dégâts d'un de ses alliés orcs pendant ce tour.
 
-Actions
+**Aggression.** En tant qu'action bonus, Vargash peut se déplacer jusqu'à sa vitesse vers une créature hostile qu'il peut voir.
 
-Attaques Multiples. Vargash fait deux attaques de hache d'arme.
+---
 
-Hache d'arme. Attaque d'arme de mêlée : +7 pour toucher, allonge 5 pieds, une cible. Touché : 12 (1d12 + 4) dégâts tranchants.
+**Actions**
 
-Cri de Guerre (Recharge 5-6). Vargash pousse un cri de guerre. Chaque créature alliée dans un rayon de 30 pieds gagnant un avantage sur ses jets d'attaque et de sauvegarde jusqu'à la fin de son prochain tour.
+**Multiattaque.** Vargash peut faire deux attaques avec son épée longue.
 
-Réactions
+**Épée Longue.** Attaque d'arme de mêlée : +7 pour toucher, allonge 5 pieds, une cible. *Touché :* 11 (1d10 + 4) dégâts tranchants.
 
-Riposte. Lorsqu'une créature dans un rayon de 5 pieds de Vargash le manque avec une attaque de mêlée, il peut utiliser sa réaction pour effectuer une attaque de hache d'arme contre cette créature.
+**Hurlement de Guerre.** (Recharge après un repos court ou long) Vargash pousse un hurlement terrifiant. Chaque créature ennemie dans un rayon de 30 pieds et pouvant entendre le hurlement doit réussir un jet de sauvegarde de Sagesse DD 13 ou être effrayée pendant 1 minute. Une créature effrayée peut refaire un jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet sur elle en cas de succès.
 
-Équipement
-
-Vargash porte une armure de plaques et sa hache d'arme, "Crocs de Fer", une arme orque de grande qualité ornée de runes tribales.
-
-Cette version de Vargash est adaptée pour un niveau de difficulté de 6, tout en conservant son rôle de chef de guerre orc et ses capacités inspirantes et redoutables.
-```
 </detail>
