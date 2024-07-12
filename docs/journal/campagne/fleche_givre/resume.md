@@ -1,15 +1,5 @@
 # Campagne de la flèche de givre
 
-## Personnages
-
-[nemeia](../../personnages/nemeia.md)
-
-[alix](../../personnages/alix.md)
-
-[nugar](../../personnages/nugar.md)
-
-[storm](../../personnages/storm.md)
-
 ## PNJ
 
 [Toblen Rocheline](../../pnj/toblen_rocheline.md)
@@ -54,5 +44,10 @@ Le lendemain matin, [Toblen Rocheline](../../pnj/toblen_rocheline.md) déjà deb
 
 [Toblen Rocheline](../../pnj/toblen_rocheline.md) demanda une ultime faveur à notre groupe d'aventurier afin de récuperer un trésor qui était recherché par un groupe de mercenaire mort pendant l'attaque
 Grâce à l'argent de celui ci, le village aurait une chance de se remettre de l'attaque
-
 Nos aventuriers acceptèrent en échange de 4 lopins de terre suffisant pour y construire chacun une maison
+
+Après avoir élucidé l'emplacement du trésors, nos aventuriers se mirent en chemin.
+Après une journée de marche, arrivant vers midi, Francis aperçut un phare fortifié.
+
+![Phare](../../../ressources/lighthouse.png)
+
