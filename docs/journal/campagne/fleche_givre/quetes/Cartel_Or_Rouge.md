@@ -6,7 +6,7 @@ Phandaline, un village minier situé dans les contreforts des Montagnes de l'Ép
 #### Développement de l'Intrigue
 
 1. **L'arrivée des Émissaires du Cartel de l'Or Rouge :**
-   Un groupe d'individus bien vêtus et mystérieux arrive à Phandaline, prétendant être des marchands et des investisseurs. Ils se présentent comme le "Cartel de l'Or Rouge", offrant des fonds et des ressources pour accélérer la reconstruction. Leur chef, une femme charismatique nommée Selene Nocturn, semble particulièrement intéressée par les mines et les ressources minérales de la région.
+   Un groupe d'individus bien vêtus et mystérieux arrive à Phandaline, prétendant être des marchands et des investisseurs. Ils se présentent comme le "La guilde des marchands de la côté", offrant des fonds et des ressources pour accélérer la reconstruction. Leur chef, une femme charismatique nommée Selene Nocturn, semble particulièrement intéressée par les mines et les ressources minérales de la région.
 
 2. **Les Soupçons de Toblen :**
    Toblen Rocheline commence à avoir des soupçons sur les véritables intentions du Cartel de l'Or Rouge. Il découvre que certains des ouvriers embauchés par le cartel ont un passé criminel et que des équipements de minage disparaissent mystérieusement. Les rumeurs circulent dans le village sur des réunions secrètes organisées par Selene et ses acolytes.
@@ -30,3 +30,32 @@ Phandaline, un village minier situé dans les contreforts des Montagnes de l'Ép
 - **La Malédiction des Mines :** En explorant plus profondément les mines, les aventuriers pourraient découvrir une ancienne malédiction ou une créature mythique, ajoutant une nouvelle dimension à leurs aventures.
 
 Cette intrigue offre de nombreuses possibilités d'aventures et de développements, tout en mettant en valeur le courage et la détermination des habitants de Phandaline face à l'adversité imposée par le Cartel de l'Or Rouge.
+
+
+
+<details>
+<summary>Récompenses de Fin de Quête</summary>
+
+### Trésor
+
+- **Amulette de l'Or Rouge :** Un artefact magique qui confère un bonus de +1 à tous les jets de sauvegarde et aux jets d'attaque de sorts.
+- **Dague Enchantée :** Une dague magique avec un bonus de +1 aux jets d'attaque et de dégâts.
+- **200 pièces d'or** en espèces.
+- **Parchemin de Téléportation :** Un parchemin unique permettant un usage unique du sort de Téléportation.
+
+### Reconnaissance et Gratitudes
+
+- Les habitants de Phandalin expriment leur gratitude en offrant un service ou un objet précieux aux aventuriers.
+- Toblen Rocheline, l'aubergiste, propose un séjour gratuit et des repas à vie à la Pierre Levée.
+- Les aventuriers gagnent la reconnaissance et le respect des villageois pour avoir sauvé leur communauté.
+
+### Accès à des Ressources
+
+- Accès à des informations précieuses sur les activités passées du cartel, potentiellement permettant de localiser d'autres membres fugitifs ou d'intercepter des cargaisons de contrebande.
+- Accès à des services spéciaux à Phandalin, tels que des réductions sur les équipements ou des services d'artisanat.
+
+### Nouvelles Quêtes et Opportunités
+
+- Des offres de nouvelles quêtes et d'aventures dans la région ou au-delà, offrant aux aventuriers la possibilité de continuer à explorer et à influencer le monde.
+
+</details>

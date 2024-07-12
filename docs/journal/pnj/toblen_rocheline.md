@@ -1,4 +1,4 @@
-![Toblen_Rocheline](../../ressources/toblen_rochelline.png)
+![Toblen_Rochecoline](../../ressources/toblen_rochelline.png)
 # Toblen Rocheline
 
 ## Maire de Phandaline / propriétaire de l'auberge de rocheline
