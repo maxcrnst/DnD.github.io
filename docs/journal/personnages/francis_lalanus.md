@@ -4,7 +4,7 @@
 
 ## Classe
 
-Ensorceleuse des tempêtes
+Barde du collège de la séduction
 
 ## Niveau
 
