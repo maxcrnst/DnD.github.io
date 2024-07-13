@@ -1,11 +1,10 @@
 ![Nemeia](../..//ressources/nemeia.png)
 
-# Nemeïa
+# Francis Lalanus
 
 ## Classe
 
-Ensorceleuse des tempêtes
-
+Barde du collège de la séduction
 ## Niveau
 
 3
