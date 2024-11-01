@@ -71,4 +71,4 @@ Au centre de la chambre d'auberge de Stor, dessiné avec une précision inquiét
 
 ![pentacle](../../../ressources/chambre_store.png)
 
-A la vue du pentacle, les deux amisse rendirent comptes qu'ils allaient avoir besoin d'aide !
+A la vue du pentacle, les deux amis se rendirent comptes qu'ils allaient avoir besoin d'aide !
