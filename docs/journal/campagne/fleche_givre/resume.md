@@ -9,8 +9,11 @@
 
 [Francis Lalanus](../../personnages/francis_lalanus.md)
 
-[Stor souffletempête](../../personnages/francis_lalanus.md)
+[Stor souffletempête](../../personnages/stor.md)
 
+[Aleksander](../../personnages/Aleksander.md)
+
+[Elehayym](../../personnages/Elehayym.md)
 ## PNJ
 
 [Toblen Rocheline](../../pnj/toblen_rocheline.md)
