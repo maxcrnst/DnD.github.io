@@ -1,4 +1,4 @@
-![Aleksander](../..//ressources/Aleksander.png)
+![Aleksander](../..//ressources/aleksander.png)
 
 # Aleksander
 
