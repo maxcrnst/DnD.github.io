@@ -62,13 +62,11 @@ Les villageois, sous la direction de Toblen, commencent alors à distribuer les 
 
 La scène se termine dans une atmosphère d'espoir et de renouveau, et même si les aventuriers n’avaient qu’un sac pour transporter les trésors du phare hanté, ils réalisent que leur exploit a transformé plus que les coffres du village : ils ont ramené à Phandaline un souffle de courage et d’unité.
 
+Parrallèlement à cette histoire , Stor expérimentait sa magie dans sa chambre d'auberge quand soudainnement, il disparu dans un bruit de tonnerre , révéillant ses voisins de chambres Elehayym [Elehayym](../../personnages/Elehayym.md) et [Aleksander](../../personnages/Aleksander.md)
+Aleksander
 
-
-
-Lorsque Nemeia et Francis apprennent la disparition de Stor, une inquiétude pragmatique, mais bien réelle, s’installe dans le cœur des deux aventuriers. Storm, malgré son caractère mystérieux et parfois distant, faisait partie intégrante du groupe. Tous trois s'étaient soutenus dans d'innombrables batailles et avaient affronté ensemble des dangers qui auraient brisé bien d'autres compagnons d'armes. Et aujourd’hui, sans raison apparente, il a disparu.
 
 Au centre de la chambre d'auberge de Stor, dessiné avec une précision inquiétante, se trouve un pentacle complexe. Le symbole, tracé en une poudre grisâtre qui semble scintiller faiblement, occupe une large portion du sol, et chaque ligne est finement courbée, comme si elle avait été gravée par une main expérimentée.
 
 ![pentacle](../../../ressources/chambre_store.png)
 
-A la vue du pentacle, les deux amis se rendirent comptes qu'ils allaient avoir besoin d'aide !
